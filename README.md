@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![logo](https://github.com/thesampat/thesampat/main/banner.jpeg)
+![logo](https://github.com/thesampat/thesampat/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Sampat Pawar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
