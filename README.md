@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Hi 👋, I'm Sampat Pawar
-A passionate Software Engineer
-coding
+![logo](https://github.com/thesampat/thesampat/main/banner.jpeg)
+<h1 align="center">Hi 👋, I'm Sampat Pawar</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 sampatpawar
 
