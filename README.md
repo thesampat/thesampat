@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sampat Pawar</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-sampatpawar
-
 🔭 I’m currently working on Secquraise Technologies Pvt Ltd
 
 💬 Ask me about React , JavaScript, Nginx, CI/CD Pipelines.
